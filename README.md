@@ -20,4 +20,4 @@ Usei o "canvas" para transformar uma foto normal em um estilo executivo, fazendo
 O video tem a importância de destacar a linguagem de programação e seus feitos ao longos dos anos.
 
 ## 💭 Reflexão (Opcional)
-Foi muito interessante, pois contribuir muito para o meu aprendizado de algumas ferramentas da qual eu não tinha conhecimento do seu uso.Exemplo o canvas. 
+Foi muito interessante, pois contribuiu muito para o meu aprendizado de algumas ferramentas da qual eu não tinha conhecimento do seu uso.Exemplo o canvas. 
